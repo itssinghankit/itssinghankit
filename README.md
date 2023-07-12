@@ -1,4 +1,10 @@
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ankit+Singh+%F0%9F%91%8B;Android+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+</div> 
+</br>
+
 # 💫 About Me:
+
 🔭 I’m currently working on CSI (Technical society of college) Android application<br>👯 I’m interested in open source contributions<br>🤝 I’ve worked in team many times<br>🌱 I’m currently learning Advanced Android concepts<br>💬 Ask me about Android Development<br>⚡ Fun fact - I can Sing and play Guitar 
 
 
