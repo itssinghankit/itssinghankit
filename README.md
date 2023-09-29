@@ -3,7 +3,7 @@
 </div> 
 </br>
 
-# 💫 About Me:
+# About Me:
 
 🔭 I’m currently working on CSI (Technical society of college) Android application<br>👯 I’m interested in open source contributions<br>🤝 I’ve worked in team many times<br>🌱 I’m currently learning Advanced Android concepts<br>💬 Ask me about Android Development<br>⚡ Fun fact - I can Sing and play Guitar 
 
